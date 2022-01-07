@@ -1,6 +1,6 @@
 # SiamCSR
 
-Testing and training code of paper ***High Speed and Robust RGB-Thermal Tracking via Attentive Dual-Stream Siamese Network*** of The International Geoscience and Remote Sensing Symposium (IGARSS). 
+Testing and training code of paper ***HIGH SPEED AND ROBUST RGB-THERMAL TRACKING VIA DUAL ATTENTIVE STREAM SIAMESE NETWORK*** of The International Geoscience and Remote Sensing Symposium (IGARSS). 
 
 - python3.7
 

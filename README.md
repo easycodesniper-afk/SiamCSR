@@ -12,11 +12,15 @@ Testing and training code of paper ***HIGH SPEED AND ROBUST RGB-THERMAL TRACKING
 
 # Run demo
 
-Please mkdir 'models' at root path and download snapshots and pretrain models from this url:https://pan.baidu.com/s/1id8wCvru8cgTe6tZynpXzA password:yl6s
+Please mkdir 'models' at root path and download snapshots and pretrain models from 
+Baidu Cloud Drive:https://pan.baidu.com/s/1id8wCvru8cgTe6tZynpXzA password:yl6s 
+or Google Drive:https://drive.google.com/drive/folders/1EWGAMNGd34FEbXgVobyvZY3A5nkcUPh-?usp=sharing
 
 ```py
 python bin/my_demo.py to run demo.
 ```
+![image](https://github.com/easycodesniper-afk/SiamCSR/blob/master/gif/rgb.gif)
+![image](https://github.com/easycodesniper-afk/SiamCSR/blob/master/gif/t.gif)
 
 # Test
 

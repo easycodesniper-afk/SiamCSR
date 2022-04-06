@@ -9,7 +9,8 @@ Testing and training code of paper ***HIGH SPEED AND ROBUST RGB-THERMAL TRACKING
 - Ubuntu 16.04 or newer version
 
 - install all requirements
-
+******
+Update on 04/06/2022, our paper has been accepted by IGARSS 2022.Paper will be published in three months.
 # Run demo
 
 Please mkdir 'models' at root path and download snapshots and pretrain models from 

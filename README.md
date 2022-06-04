@@ -10,7 +10,12 @@ Testing and training code of paper ***HIGH SPEED AND ROBUST RGB-THERMAL TRACKING
 
 - install all requirements
 ******
-Update on 04/06/2022, our paper has been accepted by IGARSS 2022.Paper will be published in three months.
+Update on 04/06/2022, our paper has been accepted by IGARSS 2022. Paper will be published in three months.
+******
+Update on 06/04/2022, SiamCSR详细讲解已上传至bilibili弹幕网：[RGB-T跟踪算法SiamCSR代码讲解](https://www.bilibili.com/video/BV1PS4y1i7Dw?spm_id_from=333.999.0.0)
+******
+![image](https://user-images.githubusercontent.com/54308136/171970050-7b4523f3-df0c-47df-adb6-a2183877f408.png)
+
 # Run demo
 
 Please mkdir 'models' at root path and download snapshots and pretrain models from 
